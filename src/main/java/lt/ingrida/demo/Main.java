@@ -6,5 +6,6 @@ public class Main {
      TestA.sayHelloLT();
 
         System.out.println("Hello world");
+        TestB.sayHelloLT();
     }
 }
